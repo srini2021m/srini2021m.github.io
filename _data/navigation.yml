@@ -18,10 +18,10 @@ main:
     url: /projects/    
     
   - title: "Presentations"
-    url: /Presentations/
+    url: /presentations/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog"
+  #  url: /year-archive/
     
   - title: "CV"
     url: /cv/
